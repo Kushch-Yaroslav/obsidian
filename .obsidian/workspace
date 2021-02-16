@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "f759dc2d5c67ca42",
+    "type": "split",
+    "children": [
+      {
+        "id": "d14b0f18e725bd67",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Git.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb63d36dda2dac04",
+    "type": "split",
+    "children": [
+      {
+        "id": "c929f58e15b5a73a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b367dc56f7de6328",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "43fa8b55c4d184ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92cb5f4da71f5704",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ff8f3670225717a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "386caece57ae8fa1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e29330770bac65c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Git.md",
+    "Linux.md",
+    "Chmod.md"
+  ]
+}
